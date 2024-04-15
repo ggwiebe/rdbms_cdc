@@ -1,2 +1,2 @@
-# rdbm_cdc
-Change Data Capture from a SQL Database
+# rdbms_cdc
+Change Data Capture from a SQL-based RDBMS
